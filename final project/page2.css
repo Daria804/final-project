@@ -1,0 +1,152 @@
+@charset "UTF-8";
+body {
+  background-color: #e5eaec;
+}
+
+.test {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  margin-left: 40%;
+  font-family: "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 40px;
+}
+
+.submit {
+  margin-left: 41%;
+  border: 0;
+  height: 40px;
+  width: 200px;
+  border-radius: 25px;
+  background-color: #0BA29B;
+  color: #fff;
+}
+
+.alldiv {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.div1 {
+  border: 0;
+  width: 200px;
+  height: 200px;
+  margin-left: 30px;
+  top: 290px;
+  background-color: #bae7f5;
+  border-radius: 30px;
+}
+
+.div2 {
+  border: 0;
+  width: 960px;
+  height: 200px;
+  margin-left: 30px;
+  background-color: #bae7f5;
+  border-radius: 30px;
+}
+
+.div3 {
+  border: 0;
+  width: 700px;
+  height: 100px;
+  margin-left: 30px;
+  margin-top: 100px;
+  background-color: #bae7f5;
+  border-radius: 30px;
+}
+
+.div4 {
+  border: 0;
+  width: 200px;
+  height: 400px;
+  margin-left: 30px;
+  top: 290px;
+  background-color: #bae7f5;
+  border-radius: 30px;
+}
+
+.sedgirl {
+  display: flex;
+  margin-left: 40%;
+  margin-top: 100px;
+  height: 15%;
+  width: 15%;
+}
+
+.level1 {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 40px;
+  margin-left: -30px;
+}
+
+.depression {
+  width: 90%;
+  margin-left: 100px;
+  margin-top: 100px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 117%;
+}
+
+p.symbol::before {
+  content: "•";
+}
+
+.word1 {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  width: 100%;
+  margin-top: 2px;
+  text-align: center;
+}
+
+.word2 {
+  display: flex;
+  margin-left: 40%;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+  margin-top: -76px;
+  width: 70%;
+}
+
+.word3 {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  width: 100%;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.minimg {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+  margin-top: 5px;
+}
+
+.minimg1 {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+  margin-top: 60px;
+}
+
+.minimg2 {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+  margin-top: 50px;
+}/*# sourceMappingURL=page2.css.map */
